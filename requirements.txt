@@ -1,0 +1,8 @@
+FreeSimpleGUI==5.1.1
+numpy==2.1
+scipy==1.15.1
+yfinance==0.2.54
+requests_html
+lxml_html_clean
+finance_calendars
+pandas
